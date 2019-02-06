@@ -278,3 +278,15 @@ body {
 @media print {
   .backgrounds {
     background-color: #f7fbfc; } }
+
+
+#logoHorizontal{
+  fill: #0091e2
+}
+
+.container{
+  display: flex;
+}
+.col{
+  flex: 1;
+}
