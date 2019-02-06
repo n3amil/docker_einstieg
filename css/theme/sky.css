@@ -290,3 +290,7 @@ body {
 .col{
   flex: 1;
 }
+
+.reveal .progress {
+  height: 10px;
+}
